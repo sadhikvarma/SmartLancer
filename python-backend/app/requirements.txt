@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+fireworks
+python-dotenv
+fireworks-ai
